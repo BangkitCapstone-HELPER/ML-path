@@ -1,0 +1,52 @@
+item {
+    name: "nasi"
+    id: 1
+}
+
+item {
+    name: "tempe"
+    id: 2
+}
+
+item {
+    name: "ayam"
+    id: 3
+}
+
+item {
+    name: "tahu"
+    id: 4
+}
+
+item {
+    name: "bakwan"
+    id: 5
+}
+
+item {
+    name: "capcay"
+    id: 6
+}
+item {
+    name: "cumi"
+    id: 7
+}
+
+item {
+    name: "gudeg"
+    id: 8
+}
+
+item {
+    name: "ikan"
+    id: 9
+}
+item {
+    name: "kerupuk"
+    id: 10
+}
+
+item {
+    name: "rendang"
+    id: 11
+}
