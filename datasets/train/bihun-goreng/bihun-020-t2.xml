@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bihun-031_jpg.rf.15030dba3636b659661904b7b4e7387f.jpg</filename>
+	<path>bihun-031_jpg.rf.15030dba3636b659661904b7b4e7387f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bihun goreng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>800</xmax>
+			<ymin>1</ymin>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>
